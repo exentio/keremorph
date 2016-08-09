@@ -21,7 +21,7 @@ Color scheme born in a day filled with boredrom, the 9 August 2016.
 
 ### How to add the scheme in .Xresources
 
-I decided to make a modular approach to this, inspired by [dkeg](https://github.com/dkeg) (this means keremorph is compatible with his schemes), but this works only with 8+1 colors schemes.
+I decided to use a modular approach, inspired by [dkeg](https://github.com/dkeg) (this means keremorph is compatible with his schemes), but this works only with 8+1 colors schemes.
 To add the scheme to .Xresources, simply paste this into the file, after other settings, and removing the previous colors if present:
 
     #include <keremorph/keremorph>        ! - Change this if the repo isn't inside ~/keremorph
