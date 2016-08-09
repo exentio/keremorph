@@ -21,7 +21,10 @@ Color scheme born in a day filled with boredrom, the 9 August 2016.
 
 ### How to add the scheme in .Xresources
 
-I decided to make a modular approach to this, inspired by [dkeg](https://github.com/dkeg) (this means that keremorph is compatible with his color schemes), but this works only with 8+1 colors schemes
+I decided to make a modular approach to this, inspired by [dkeg](https://github.com/dkeg) (this means keremorph is compatible with his schemes), but this works only with 8+1 colors schemes.
+To add the scheme to .Xresources, simply paste this into the file, after other settings, and removing the previous colors if present:
+
+    #include <keremorph/keremorph>        ! - Change this if the repo isn't inside ~/keremorph
 
     ! Colors
     *background:   bg
@@ -45,7 +48,7 @@ I decided to make a modular approach to this, inspired by [dkeg](https://github.
     *color7:      wht
     *color15:     wht
 
-Instead, if you prefer 16 colors, use this (moduar but doens't work with dkeg colors without editing his files)
+Instead, if you prefer 16 colors, use this (moduar but doesn't work with dkeg colors without editing his files)
 
     ! Colors
     *background:   bg
