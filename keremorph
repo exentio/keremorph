@@ -1,0 +1,25 @@
+! - Author:   Exentio
+! - Title:    kelemorph 
+! - Created:  2016
+
+#define bg    #173559
+#define blk   #323C51
+#define fg    #E3D1D1
+#define b1l   #525863
+#define red   #A43C38
+#define grn   #499860
+#define ylw   #CD8D4C
+#define blu   #326E95
+#define mag   #A6346B
+#define cyn   #32939A
+#define wht   #E8D5D5
+
+! - 16 Colors variant
+
+#define bred   #A44C48
+#define bgrn   #58986B
+#define bylw   #CD9760
+#define bblu   #427495
+#define bmag   #A64473
+#define bcyn   #41949A
+#define bwht   #DDDBDB
