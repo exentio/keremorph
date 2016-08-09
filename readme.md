@@ -71,3 +71,7 @@ Instead, if you prefer 16 colors, use this (modular, but doesn't work with dkeg 
     *color14:     bcyn
     *color7:      wht
     *color15:     bwht
+
+### How to install the Openbox theme
+
+That's pretty simple: just copy the `openbox-3` folder inside `~/.themes/keremorph` and apply it with `obconf`
