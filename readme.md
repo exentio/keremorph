@@ -48,7 +48,7 @@ To add the scheme to .Xresources, simply paste this into the file, after other s
     *color7:      wht
     *color15:     wht
 
-Instead, if you prefer 16 colors, use this (moduar but doesn't work with dkeg colors without editing his files)
+Instead, if you prefer 16 colors, use this (modular but doesn't work with dkeg colors without editing his files)
 
     ! Colors
     *background:   bg
