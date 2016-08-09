@@ -72,6 +72,10 @@ Instead, if you prefer 16 colors, use this (modular, but doesn't work with dkeg 
     *color7:      wht
     *color15:     bwht
 
-### How to install the Openbox theme
+### How to install themes
 
 That's pretty simple: just copy the folder inside `~/.themes` and apply it with `llxappearance` for GTK and `obconf` for Openbox
+
+### How to install the Chromium/Google Chrome theme
+
+Simply drop it inside the window
