@@ -74,4 +74,4 @@ Instead, if you prefer 16 colors, use this (modular, but doesn't work with dkeg 
 
 ### How to install the Openbox theme
 
-That's pretty simple: just copy the `openbox-3` folder inside `~/.themes/keremorph` and apply it with `obconf`
+That's pretty simple: just copy the folder inside `~/.themes` and apply it with `llxappearance` for GTK and `obconf` for Openbox
