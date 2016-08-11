@@ -17,7 +17,8 @@ Color scheme born in a day filled with boredrom, the 9 August 2016.
     Cyan:           #32939A
     White:          #E8D5D5
     
-    Pale colors just have 10% less saturation
+    Pale colors just have 10% less saturation,
+    except for black (20% less)
 
 ### How to add the scheme in .Xresources
 

@@ -1,11 +1,11 @@
 ! - Author:   Exentio
-! - Title:    keremorph 
+! - Title:    keremorph
 ! - Created:  2016
 
 #define bg    #173559
-#define blk   #323C51
+#define blk   #525863
 #define fg    #E3D1D1
-#define b1l   #525863
+#define b1l   #5C5F63
 #define red   #A43C38
 #define grn   #499860
 #define ylw   #CD8D4C
