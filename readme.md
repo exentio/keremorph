@@ -80,3 +80,16 @@ That's pretty simple: just copy the folder inside `~/.themes` and apply it with 
 ### How to install the Chromium/Google Chrome theme
 
 Simply drop it inside the window
+
+### How to install the Sublime Text 3 theme
+
+If you don't have the Boxy theme, or you don't have any mod for it, simply drag `Boxy Theme.sublime-package` inside`/home/ex/.config/sublime-text-3/Installed Packages`.
+But if you already have it and you modded it, this gets trickier:
+1. Extract the original theme (exactly like you would do with a .zip), and also this modded version
+2. Go inside the modded theme's folder, and copy (from the modded's folder into the original's): 
+  * `Boxy Keremorph.sublime-theme` in the root
+  * `schemes/Boxy Keremorph.tmTheme` inside the`schemes` folder
+  * `assets/specific/keremorph` inside the `assets/specific` folder
+3. Go in the root of the modded's folder and select all (`CTRL + A`), and compress everything in a zip
+4. Rename the zip `Boxy Theme.sublime-package`
+5. Apply the theme inside Sublime
