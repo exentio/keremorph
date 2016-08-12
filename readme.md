@@ -87,9 +87,9 @@ If you don't have the Boxy theme, or you don't have any mod for it, simply drag 
 But if you already have it and you modded it, this gets trickier:  
 1. Extract the original theme (exactly like you would do with a .zip), and also this modded version  
 2. Go inside the modded theme's folder, and copy (from the modded's folder into the original's):   
-  * `Boxy Keremorph.sublime-theme` in the root  
-  * `schemes/Boxy Keremorph.tmTheme` inside the`schemes` folder  
-  * `assets/specific/keremorph` inside the `assets/specific` folder  
+  * `Boxy Keremorph.sublime-theme` in the root.  
+  * `schemes/Boxy Keremorph.tmTheme` inside the`schemes` folder.  
+  * `assets/specific/keremorph` inside the `assets/specific` folder.  
 3. Go in the root of the modded's folder and select all (`CTRL + A`), and compress everything in a zip  
 4. Rename the zip `Boxy Theme.sublime-package`  
 5. Apply the theme inside Sublime  
