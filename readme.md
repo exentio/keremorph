@@ -73,7 +73,7 @@ Instead, if you prefer 16 colors, use this (modular, but doesn't work with dkeg 
     *color7:      wht
     *color15:     bwht
 
-### How to install themes
+### How to install GTK and OpenBox themes
 
 That's pretty simple: just copy the folder inside `~/.themes` and apply it with `lxappearance` for GTK and `obconf` for Openbox
 
@@ -83,7 +83,7 @@ Simply drop it inside the window
 
 ### How to install the Sublime Text 3 theme
 
-If you don't have the Boxy theme, or you don't have any mod for it, simply drag `Boxy Theme.sublime-package` inside`/home/ex/.config/sublime-text-3/Installed Packages`.  
+If you don't have the Boxy theme, or you don't have any mod for it, simply drag `Boxy Theme.sublime-package` inside`~/.config/sublime-text-3/Installed Packages`.  
 But if you already have it and you modded it, this gets trickier:  
 * Extract the original theme (exactly like you would do with a .zip), and also this modded version  
 
